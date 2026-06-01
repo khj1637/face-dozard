@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+
+    <defs>
+      <radialGradient id="gisbg" cx="50%" cy="42%" r="75%">
+        <stop offset="0%" stop-color="#F4A8C0"/>
+        <stop offset="100%" stop-color="#B83E70"/>
+      </radialGradient>
+      <filter id="soft"><feGaussianBlur stdDeviation="3"/></filter>
+    </defs>
+    <rect width="512" height="512" fill="url(#gisbg)"/>
+    <g opacity="0.7"><text x="50" y="50" font-size="20">🌸</text><text x="122" y="133" font-size="26">🌸</text><text x="194" y="216" font-size="32">🌸</text><text x="266" y="299" font-size="20">🌸</text><text x="338" y="382" font-size="26">🌸</text><text x="410" y="465" font-size="32">🌸</text><text x="482" y="108" font-size="20">🌸</text><text x="554" y="191" font-size="26">🌸</text></g>
+    <ellipse cx="256" cy="505" rx="120" ry="18" fill="#000000" opacity="0.18"/><path d="M168,185 Q146,265 158,512 L194,512 Q184,245 194,205 Z" fill="#2B2620"/><path d="M344,185 Q366,265 354,512 L318,512 Q328,245 318,205 Z" fill="#2B2620"/>
+    <path d="M178,512 L190,320 Q256,284 322,320 L334,512 Z" fill="#E86A98"/>
+    <path d="M178,512 L190,320 Q226,300 256,304 L256,512 Z" fill="#C24A78" opacity="0.5"/>
+    <path d="M226,296 L256,330 L286,296 L274,288 L256,312 L238,288 Z" fill="#FFF2F8"/>
+    <rect x="222" y="306" width="68" height="12" rx="4" fill="#7A3FA0"/><path d="M164,205 Q162,113 256,111 Q350,113 348,205 Q348,153 334,159 Q256,137 178,159 Q164,153 164,205 Z" fill="#2B2620"/><ellipse cx="256" cy="118" rx="74" ry="34" fill="#1A1410"/><ellipse cx="256" cy="112" rx="60" ry="24" fill="#2B2118"/>
+    <ellipse cx="256" cy="205" rx="92" ry="86" fill="#FBE0C4"/>
+    <ellipse cx="210" cy="231" rx="17" ry="11" fill="#F7A8A0" opacity="0.55"/>
+    <ellipse cx="302" cy="231" rx="17" ry="11" fill="#F7A8A0" opacity="0.55"/>
+    <rect x="200" y="116" width="58" height="6" rx="3" fill="#E0B84C" transform="rotate(-6 230 119)"/><circle cx="196" cy="118" r="7" fill="#E04F7A"/><text x="316" y="128" font-size="28">🌺</text><circle cx="222" cy="222" r="6" fill="#E86A98" opacity="0.7"/><circle cx="290" cy="222" r="6" fill="#E86A98" opacity="0.7"/><path d="M205,172 Q218,167 231,171" stroke="#3A2A1A" stroke-width="5" fill="none" stroke-linecap="round"/><path d="M281,171 Q294,167 307,172" stroke="#3A2A1A" stroke-width="5" fill="none" stroke-linecap="round"/><ellipse cx="218" cy="200" rx="14" ry="18" fill="#FFFFFF"/><circle cx="218" cy="203" r="10.5" fill="#2B2118"/><circle cx="222" cy="199" r="3.6" fill="#FFFFFF"/><path d="M281,202 Q294,189 307,202" stroke="#2B2118" stroke-width="6" fill="none" stroke-linecap="round"/><path d="M240,252 Q260,260 276,244" stroke="#C2185B" stroke-width="5" fill="none" stroke-linecap="round"/><circle cx="232" cy="252" r="3" fill="#8A2F2F"/>
+</svg>
